@@ -1,4 +1,5 @@
-[Demo](https://id1945.github.io/ng-validate-dynamic-formarray-formgroup/)
+[Demo github](https://id1945.github.io/ng-validate-dynamic-formarray-formgroup) | 
+[Demo stackblitz](https://stackblitz.com/edit/angular-validate-dynamic-formarray-formgroup)
 
 ##### …create new project
 ```
